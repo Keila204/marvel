@@ -8,6 +8,7 @@ function App() {
     <Cabecalho/>
       <header className="App-header">
         <h1>oi</h1>
+        <p>Capitão América</p>
       </header>
     </div>
   );
