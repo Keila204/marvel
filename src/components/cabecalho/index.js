@@ -5,7 +5,7 @@ export default function Cabecalho() {
     return (
       <header className='comp-cabecalho'>
         <img src="../assets/images/logo.svg"/>
-        <div>
+        <div className='home'>
         <p>Home</p>
         <p>Personagens</p>
         <p>Quadrinhos</p>
